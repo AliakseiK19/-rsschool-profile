@@ -5,4 +5,4 @@ git commit -m "first commit"
 git remote add origin https://github.com/your-name/rsschool-profile.git
 git push -u origin master
 Aliaksei Kachanouski
-HTML CSS Basics:https://www.codecademy.com/learn/learn-html
+HTML CSS Basics:<a href = "https://www.codecademy.com/learn/learn-html"/>
